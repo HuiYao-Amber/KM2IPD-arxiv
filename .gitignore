@@ -1,0 +1,8 @@
+outputs/
+.Rlib/
+*.csv
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf
+.DS_Store
